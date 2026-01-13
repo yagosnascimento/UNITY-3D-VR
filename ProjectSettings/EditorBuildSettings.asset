@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main RV Scene.unity
+    guid: d944c793a074f6a49aebe8e3fdd39075
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 71988d89117d37144903b03a215b6b2c, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7595c67e578d12a4298d381a5220d9dc, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 56afa14cece8bb14fb37c28708d47368, type: 2}
+  m_UseUCBPForAssetBundles: 0
