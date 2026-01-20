@@ -9,7 +9,7 @@ Este repositório contém a configuração inicial de um Player VR utilizando o 
 * **OpenXR Plugin**
 * **Unity Input System**
 
-## onfiguração do Player
+## Configuração do Player
 O Player foi estruturado seguindo o padrão `XR Origin (VR)`:
 1. **Camera Offset:** Garante o rastreamento da altura correta do HMD.
 2. **Main Camera:** Atua como o centro da visão do usuário.
